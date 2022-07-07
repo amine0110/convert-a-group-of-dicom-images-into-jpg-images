@@ -11,9 +11,15 @@ pip install pillow
 pip install pydicom
 ```
 
-## NEW 🆕
+## Conversion tools
 
 If you are not familiar with `Python` then you may think of using my [new GUI](https://pycad.co/convert-jpg-or-png-images-into-dicom/) that does the same thing with few clicks! Please try out and give me your feedback
 
 
 ![154864750-c55a3129-67c7-438a-8549-e2c45c433048](https://user-images.githubusercontent.com/37108394/156255711-be9b7e38-6d6d-4b72-85fc-856334f15503.png)
+
+## 🆕 NEW
+
+Full course about medical imaging segmentation is coming soon, join the waitlist here:
+
+https://pycad.co/monai-and-pytoch-for-medical-imaging/
