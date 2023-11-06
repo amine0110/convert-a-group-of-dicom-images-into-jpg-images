@@ -6,7 +6,7 @@ In this repo you are gonna find the piece of code to do the conversion a group o
 ## Requirements
 
 ```
-pip install numpt
+pip install numpy
 pip install pillow
 pip install pydicom
 ```
